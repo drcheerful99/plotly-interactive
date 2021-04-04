@@ -60,7 +60,6 @@ d3.json("samples.json").then((data) => {
       text:labels.slice(0,10).reverse(),
       type:"bar",
       orientation:"h"
-
     }
   ];
 
